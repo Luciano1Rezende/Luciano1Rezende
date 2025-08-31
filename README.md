@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou Luciano Peres de Rezende</h1>
+<h3 align="center">💻 Auxiliar de TI | Estudante de Inteligência Artificial e Ciência de Dados</h3>
 
-<!--
-**Luciano1Rezende/Luciano1Rezende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/luciano-peres-rezende/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rezendelucianoperes@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre Mim
+- 🔭 Atualmente trabalhando em um sistema de **Votação para Universidades**.  
+- 📚 Estudante de **Inteligência Artificial e Ciência de Dados** na UNIUBE.  
+- 🌱 Aprendendo mais sobre **PHP, Laravel, Banco de Dados e Angular**.  
+- 🎯 Interesse em **Segurança da Informação, Desenvolvimento Web e IA**.  
+- 🚀 Buscando sempre aprender e compartilhar conhecimento no GitHub!  
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<!-- ---
+
+### 🚀 Projetos em Destaque
+- 🔹 [Sistema de Votação Universitária](https://github.com/Luciano1Rezende) – Plataforma para votação de conselhos universitários.  
+- 🔹 [Algoritmo de Lanchonete em Visualg](https://github.com/Luciano1Rezende) – Algoritmo para gerenciamento de pedidos e pagamento.  
+
+--- -->
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luciano1Rezende&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano1Rezende&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Luciano1Rezende&theme=dracula" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Vamos nos Conectar!
+<p align="center">
+  <a href="https://www.linkedin.com/in/luciano-peres-rezende/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="mailto:rezendelucianoperes@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+</p>
