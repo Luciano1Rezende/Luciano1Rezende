@@ -12,7 +12,7 @@
 ### 👨‍💻 Sobre Mim
 - 🔭 Atualmente trabalhando em como auxiliar de TI na **Universidade Federal de Uberlândia**.  
 - 📚 Estudante de **Inteligência Artificial e Ciência de Dados** na UNIUBE.  
-- 🌱 Aprendendo mais sobre **PHP, Laravel, DART, FLUTTER Banco de Dados e Angular**.  
+- 🌱 Aprendendo mais sobre **PHP, Laravel, DART, FLUTTER, Banco de Dados e Angular**.  
 - 🎯 Interesse em **Segurança da Informação, Desenvolvimento Mobile, Web e IA**.  
 - 🚀 Buscando sempre aprender e compartilhar conhecimento no GitHub!  
 
