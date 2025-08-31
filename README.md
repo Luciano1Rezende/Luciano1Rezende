@@ -13,15 +13,15 @@
 ---
 
 ### 👨‍💻 Sobre Mim
-- 🔭 Atualmente trabalhando em um sistema de **Votação para Universidades**.  
+- 🔭 Atualmente trabalhando em como auxiliar de TI na **Universidade Federal de Uberlândia**.  
 - 📚 Estudante de **Inteligência Artificial e Ciência de Dados** na UNIUBE.  
-- 🌱 Aprendendo mais sobre **PHP, Laravel, Banco de Dados e Angular**.  
-- 🎯 Interesse em **Segurança da Informação, Desenvolvimento Web e IA**.  
+- 🌱 Aprendendo mais sobre **PHP, Laravel, DART, FLUTTER Banco de Dados e Angular**.  
+- 🎯 Interesse em **Segurança da Informação, Desenvolvimento Mobile, Web e IA**.  
 - 🚀 Buscando sempre aprender e compartilhar conhecimento no GitHub!  
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Ferramentas que utilizo
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
