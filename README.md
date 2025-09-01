@@ -1,11 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Luciano Peres de Rezende</h1>
 <h3 align="center">💻 Auxiliar de TI | Estudante de Inteligência Artificial e Ciência de Dados</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/luciano-peres-rezende/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
 
 ---
 
