@@ -33,14 +33,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<!-- ---
-
-### 🚀 Projetos em Destaque
-- 🔹 [Sistema de Votação Universitária](https://github.com/Luciano1Rezende) – Plataforma para votação de conselhos universitários.  
-- 🔹 [Algoritmo de Lanchonete em Visualg](https://github.com/Luciano1Rezende) – Algoritmo para gerenciamento de pedidos e pagamento.  
-
---- -->
-
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
