@@ -6,8 +6,7 @@
 ### 👨‍💻 Sobre Mim
 - 🔭 Atualmente trabalhando como **Auxiliar de TI** na **Universidade Federal de Uberlândia**.  
 - 📚 Estudante de **Inteligência Artificial e Ciência de Dados** na UNIUBE.  
-- 🌱 Atualmente aprendendo **Python** e **R**.  
-- 🛠️ Já tive contato com **Java, C++ e Banco de Dados**.  
+- 🌱 Atualmente aprendendo **Python** 
 - 🎯 Interesse em **IA aplicada à Segurança da Informação, Desenvolvimento Mobile e Web**.  
 - 🚀 Buscando sempre aprender e compartilhar conhecimento no GitHub!  
 
